@@ -1,6 +1,6 @@
 {
-  "name": "sego-starter-kit-next-js",
-  "version": "1.0.1",
+  "name": "sego-starter-kit-next",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
