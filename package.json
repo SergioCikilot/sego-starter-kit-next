@@ -1,0 +1,23 @@
+{
+  "name": "sego-starter-kit-next-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "sego-starter-kit-next": "bin/generate-app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioCikilot/sego-starter-kit-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioCikilot/sego-starter-kit-next/issues"
+  },
+  "homepage": "https://github.com/SergioCikilot/sego-starter-kit-next#readme"
+}
